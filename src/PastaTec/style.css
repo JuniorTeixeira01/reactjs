@@ -1,0 +1,16 @@
+.tecnologias-tec{
+    border: 2px solid black;
+    width: 400px;
+    height: 90px;
+    background-color: #484b4a;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.tecnologias-tec h3{
+    color: rgb(204, 176, 18);
+}
+.tecnologias-tec p{
+    color: #fff;
+}
